@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BarCodeandCaptcha">
+
+
+	<test name="BarCodeandCaptcha">
+		<classes>
+			<class name="barCode.BarCodeTest"></class>
+			<class name="captcha.CaptchaTest"></class>
+
+		</classes>
+	</test>
+</suite>
